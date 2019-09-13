@@ -1,6 +1,6 @@
 # Thomas Kovar
 
-![MyDog](linkedinphoto.jpeg)
+![linkedin](linkedinphoto.jpeg)
 
 ## Education
 
